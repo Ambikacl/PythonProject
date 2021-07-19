@@ -5,7 +5,7 @@ The Find-S algorithm is a basic concept learning algorithm in machine learning. 
 
 ## Objective
 The objective of this project is to check whether patients have the severe symptoms of Corona or not.
-In this, we will take the all the symptoms information from patients and we'll tell the patients that they are having severe symptoms or not.
+In this, we will take all the symptoms information from patients and we'll tell the patients that they are having severe symptoms or not.
 
 ## Requirements
 We need to know the following python modules to build this project.
