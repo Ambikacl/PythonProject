@@ -1,7 +1,9 @@
 # Corona Symptoms checking using Find S algarithm
 
 ## Introduction
-The find-S algorithm is a basic concept learning algorithm in machine learning. The find-S algorithm finds the most specific hypothesis that fits all the positive examples. We have to note here that the algorithm considers only those positive training example. Here in the given example, not having symptoms are positive training example. This project tells the patient whether he has the severe or important symptoms or not with the help of available data sets.
+The find-S algorithm is a basic concept learning algorithm in machine learning. The find-S algorithm finds the most specific hypothesis that fits all the positive examples. We have to note here that the algorithm considers only those positive training example. 
+Nowadays, the main problem we are facing is that Corona Virus. Because of this we have lost manpower and one of the major problems is that we are facing now is that fear of having Corona. Because of this people start worrying even if they got head ache or some common cold. 
+This project helps the patients to know whether they have the severe symptoms of corona or not, by taking the inputs of symptoms from the patients. By comparing these symptoms with the available data sets,this projects tells the patients that whether they have severe symptoms of corona or not. In the given data set, not having symptoms are the positive training example.
 
 ## Objective
 The objective of this project is to check whether a patient have the severe symptoms of Corona or not.
